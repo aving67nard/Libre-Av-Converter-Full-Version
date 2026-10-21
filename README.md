@@ -244,4 +244,4 @@ This repository serves as the official landing page for Libre AV Converter. The 
 **Get the most recent version of Libre AV Converter today!**
 
 ---
-**Last updated:** 2026-10-20 22:10:26 UTC
+**Last updated:** 2026-10-21 01:19:31 UTC
